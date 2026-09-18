@@ -4,16 +4,16 @@
   --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
 
-  --color-bg: #08090d;
-  --color-surface: #0e1015;
-  --color-surface-2: #14161d;
-  --color-border: #22242e;
-  --color-text: #e7e9ee;
-  --color-text-muted: #9599a6;
-  --color-text-dim: #6b6f7d;
-  --color-accent: #2dd4bf;
-  --color-accent-soft: #2dd4bf1a;
-  --color-accent-dim: #1c8f82;
+  --color-bg: #ffffff;
+  --color-surface: #f7f8fa;
+  --color-surface-2: #eef0f3;
+  --color-border: #e3e5ea;
+  --color-text: #15171c;
+  --color-text-muted: #565b66;
+  --color-text-dim: #8b909c;
+  --color-accent: #0f766e;
+  --color-accent-soft: #0f766e14;
+  --color-accent-dim: #0b5c56;
 
   --animate-fade-up: fade-up 0.6s ease-out forwards;
   --animate-fade-in: fade-in 0.6s ease-out forwards;
@@ -57,7 +57,7 @@
 
   ::selection {
     background-color: var(--color-accent);
-    color: #04110e;
+    color: #ffffff;
   }
 
   :focus-visible {
@@ -73,8 +73,8 @@
 
   .bg-grid {
     background-image:
-      linear-gradient(to right, #ffffff08 1px, transparent 1px),
-      linear-gradient(to bottom, #ffffff08 1px, transparent 1px);
+      linear-gradient(to right, #0000000a 1px, transparent 1px),
+      linear-gradient(to bottom, #0000000a 1px, transparent 1px);
     background-size: 44px 44px;
   }
 
