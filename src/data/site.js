@@ -4,7 +4,7 @@ export const site = {
   tagline: "Software Development • AI/ML • Backend Systems",
   location: "Dharwad, Karnataka, India",
   github: "https://github.com/Spoorthi-max",
-  linkedin: "https://linkedin.com/in/spoorthihiremath-2588342a",
+  linkedin: "https://www.linkedin.com/in/spoorthi-hiremath-2588342a9",
   email: "spoorthiphiremath@gmail.com",
 };
 

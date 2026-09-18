@@ -36,7 +36,7 @@ export default function Hero() {
         <div className="mt-10 flex flex-wrap items-center gap-3">
           <a
             href="#projects"
-            className="inline-flex items-center gap-2 rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-white transition-transform hover:-translate-y-0.5 hover:brightness-110"
+            className="inline-flex items-center gap-2 rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-[#04110e] transition-transform hover:-translate-y-0.5 hover:brightness-110"
           >
             View Projects
           </a>

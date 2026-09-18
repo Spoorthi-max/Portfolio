@@ -68,7 +68,7 @@ export function FeaturedProjectCard({ project }) {
             href={project.demo}
             target="_blank"
             rel="noreferrer"
-            className="inline-flex items-center gap-2 rounded-md bg-accent px-4 py-2 text-sm font-semibold text-white transition-transform hover:-translate-y-0.5"
+            className="inline-flex items-center gap-2 rounded-md bg-accent px-4 py-2 text-sm font-semibold text-[#04110e] transition-transform hover:-translate-y-0.5"
           >
             <ExternalLink size={15} />
             Live Demo
